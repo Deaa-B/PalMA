@@ -548,6 +548,3 @@ msgstr ""
 
 #~ msgid "Drop documents here (or click) to load them up"
 #~ msgstr "ضع المستندات هنا أو إضغط لتحميل المستندات "
-
-#~ msgid "Drop documents here (or click)"
-#~ msgstr "أو إضغط لتحميل المستندات"
